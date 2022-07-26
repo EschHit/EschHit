@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do David 😁
+## Hi, I'm David, Front-End Development student!
 
  <div>
    <a href="https://github.com/EschHit">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Socials:
  
 <div> 
   <a href = "mailto:esch.sv@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
